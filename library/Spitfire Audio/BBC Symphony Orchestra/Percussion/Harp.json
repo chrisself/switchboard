@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Sustained",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Damped",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Damped Medium",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bisbigliando Trem",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Gliss FX",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  }
+]

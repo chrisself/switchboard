@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sustained",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Damped",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Damped Medium",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  }
+]
