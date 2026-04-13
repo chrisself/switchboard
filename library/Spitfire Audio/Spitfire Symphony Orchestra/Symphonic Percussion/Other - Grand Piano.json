@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Direct",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tape",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Normal",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Muted",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  }
+]

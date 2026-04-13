@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tenuto",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Staccato",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Minor 2nd)",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Major 2nd)",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  }
+]

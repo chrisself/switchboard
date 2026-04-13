@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Beast Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Beast Short",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Choir Long",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Choir Short",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Power Long",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Super Choir Long",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Super Choir Short",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Slow Choir Long",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Slow Super Choir Long",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "B",
+      "octave": -2
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "G",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "A",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "B",
+      "octave": -1
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "C",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "C#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "D",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "D#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "E",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "F",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "F#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "",
+    "keyswitch": {
+      "note": "G",
+      "octave": 0
+    }
+  }
+]

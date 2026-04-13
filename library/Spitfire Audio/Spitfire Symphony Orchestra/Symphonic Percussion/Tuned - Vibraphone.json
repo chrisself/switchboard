@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Normal",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Motor Sustain",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Roll",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  }
+]

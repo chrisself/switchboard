@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Cuivre",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long (Muted)",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Marcato",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Marcato (Muted)",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tenuto",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tenuto (Muted)",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Staccato",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Staccato (Muted)",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Multi Tongued",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Flutter",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Flutter (Muted)",
+    "keyswitch": {
+      "note": "B",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Rip",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Fall",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  }
+]

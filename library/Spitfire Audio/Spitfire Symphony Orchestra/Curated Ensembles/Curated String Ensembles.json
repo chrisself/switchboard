@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Cool Strings 1",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Cool Strings 2",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Cool Strings 3",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Cool Strings 4",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Giant Epic Long",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Giant Epic Short",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Ligeti Strings",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Mondo Plucks",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Slow Strings 1",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Slow Strings 2",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Super Slow Strings 1",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Super Slow Strings 2",
+    "keyswitch": {
+      "note": "B",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Slow Cool Strings 1",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Slow Cool Strings 2",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Slow Cool Strings 3",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Slow Cool Strings 4",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  }
+]

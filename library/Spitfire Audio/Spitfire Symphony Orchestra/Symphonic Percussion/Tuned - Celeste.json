@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Celeste",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Esspressivo",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tight",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  }
+]

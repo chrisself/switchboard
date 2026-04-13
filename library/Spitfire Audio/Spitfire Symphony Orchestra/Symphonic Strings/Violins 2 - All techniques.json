@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long CS",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Harmonics",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Flautando",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Sul Pont",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Sul G",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Marcato Attack",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Spiccato",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short 0'5",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short 1'0",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short Brushed",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short Brushed CS",
+    "keyswitch": {
+      "note": "B",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short Harmonics",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Short CS",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Pizzicato",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Pizzicato Bartok",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Col Legno",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Long CS Sul Pont",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Long Super Sul Tasto",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Long Rachmaninoff Molto Vib",
+    "keyswitch": {
+      "note": "G",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Long CS Blend",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tremolo",
+    "keyswitch": {
+      "note": "A",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tremolo Sul Pont",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tremolo CS",
+    "keyswitch": {
+      "note": "B",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tremolo Measured (150 bpm)",
+    "keyswitch": {
+      "note": "C",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tremolo Measured (180 bpm)",
+    "keyswitch": {
+      "note": "C#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Trill (Minor 2nd)",
+    "keyswitch": {
+      "note": "D",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Trill (Major 2nd)",
+    "keyswitch": {
+      "note": "D#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "FX",
+    "keyswitch": {
+      "note": "E",
+      "octave": 0
+    }
+  }
+]

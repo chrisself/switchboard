@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Normal",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Muted",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hard Sticks",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Roll",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  }
+]
