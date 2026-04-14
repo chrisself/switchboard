@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Wheel Bow Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Wheel Bow Short",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Wheel Bow Swell",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Wheel Serr. Rod",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Wheel Strum",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Icebell Long",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Icebell Short",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Music Stand",
+    "keyswitch": {
+      "note": "G",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cup Long",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cup Short",
+    "keyswitch": {
+      "note": "A",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Saw Bow Long",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Saw Bow Short",
+    "keyswitch": {
+      "note": "B",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Saw Crescendo",
+    "keyswitch": {
+      "note": "C",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Saw Scrape Long",
+    "keyswitch": {
+      "note": "C#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Saw Scrape Short",
+    "keyswitch": {
+      "note": "D",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Saw Superball",
+    "keyswitch": {
+      "note": "D#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Sonari Long",
+    "keyswitch": {
+      "note": "E",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Sonari Short",
+    "keyswitch": {
+      "note": "F",
+      "octave": 0
+    }
+  }
+]

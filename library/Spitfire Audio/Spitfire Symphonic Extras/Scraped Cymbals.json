@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Cymbal 5P",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Bow Long",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Bow Short",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Serrated Long",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Serrated Short",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Stick Long",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal Stick Short",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal SBall Long",
+    "keyswitch": {
+      "note": "G",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cymbal SBall Short",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tamtam Bow Long",
+    "keyswitch": {
+      "note": "A",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tamtam Bow Short",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tamtam Chord Long",
+    "keyswitch": {
+      "note": "B",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tamtam Chord Short",
+    "keyswitch": {
+      "note": "C",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Dreadlk Long",
+    "keyswitch": {
+      "note": "C#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Dreadlk Short",
+    "keyswitch": {
+      "note": "D",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Drumst Long",
+    "keyswitch": {
+      "note": "D#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Drumst Short",
+    "keyswitch": {
+      "note": "E",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Serrated Long",
+    "keyswitch": {
+      "note": "F",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Serrated Short",
+    "keyswitch": {
+      "note": "F#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Shimmer",
+    "keyswitch": {
+      "note": "G",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam SBall Long",
+    "keyswitch": {
+      "note": "G#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam SBall Short",
+    "keyswitch": {
+      "note": "A",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Triangle Long",
+    "keyswitch": {
+      "note": "A#",
+      "octave": 0
+    }
+  },
+  {
+    "name": "Tamtam Triangle Short",
+    "keyswitch": {
+      "note": "B",
+      "octave": 0
+    }
+  }
+]

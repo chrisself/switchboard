@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Ensemble Hit",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Lead Pan Hit",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Lead Pan Roll",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cello Pan Hits",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cell Pan Large Bt.",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cello Pan Roll",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Cell Pan Small Bt.",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -1
+    }
+  }
+]

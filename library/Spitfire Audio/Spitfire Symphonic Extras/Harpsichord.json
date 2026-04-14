@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Lo 8'",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hi 8'",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hi 8' Lo 8'",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hi 8'4' Lo 8'",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hi 4' Lo 8'",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Lo Buf 8'",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Hi Buf 8'",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  }
+]

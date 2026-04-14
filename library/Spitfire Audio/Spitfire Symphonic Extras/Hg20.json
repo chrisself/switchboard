@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Traditional (Switch)",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Traditional (X-Fade)",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Piano Style (Switch)",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Piano Style (X-Fade)",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bowed 1",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bowed 2",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bowed 3",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Pluck 1",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Pluck 2",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Pluck 3",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  }
+]

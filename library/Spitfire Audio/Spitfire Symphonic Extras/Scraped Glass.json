@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Glass 1 Bow Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Glass 1 Bow Short",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Glass 1 Scrape Long",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Glass 1 Scrape Short",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Glass 2 Bow Long",
+    "keyswitch": {
+      "note": "E",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Glass 2 Bow Short",
+    "keyswitch": {
+      "note": "F",
+      "octave": -1
+    }
+  }
+]

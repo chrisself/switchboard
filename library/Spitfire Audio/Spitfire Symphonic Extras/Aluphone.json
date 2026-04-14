@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Long (Soft)",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short (Soft)",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long (Hard)",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short (Hard)",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long (Bowed)",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Short (Bowed)",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long (Fingers)",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  }
+]

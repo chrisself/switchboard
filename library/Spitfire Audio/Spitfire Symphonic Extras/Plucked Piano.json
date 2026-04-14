@@ -1,0 +1,30 @@
+[
+  {
+    "name": "By Velocity (Direct)",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "By CC (Direct)",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "By Velocity (Tape)",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "By CC (Tape)",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  }
+]
