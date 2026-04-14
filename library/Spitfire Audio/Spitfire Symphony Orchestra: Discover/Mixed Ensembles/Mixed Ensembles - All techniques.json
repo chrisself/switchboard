@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Full Orchestra",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Tuned Percussion",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  }
+]

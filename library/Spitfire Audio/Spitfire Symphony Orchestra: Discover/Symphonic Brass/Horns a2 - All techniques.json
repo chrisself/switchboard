@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Cuivre",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Stopped",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Marcato",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tenuto",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Staccato",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Minor 2nd)",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Major 2nd)",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Multi Tongued",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Flutter",
+    "keyswitch": {
+      "note": "A",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bells Up Staccato",
+    "keyswitch": {
+      "note": "A#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bells Up Quaver",
+    "keyswitch": {
+      "note": "B",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Bells Up Crotchet",
+    "keyswitch": {
+      "note": "C",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Bells Up Long",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Rip",
+    "keyswitch": {
+      "note": "D",
+      "octave": -1
+    }
+  },
+  {
+    "name": "Fall",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -1
+    }
+  }
+]

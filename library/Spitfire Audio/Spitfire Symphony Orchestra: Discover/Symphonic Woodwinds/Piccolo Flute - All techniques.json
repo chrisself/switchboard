@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Long",
+    "keyswitch": {
+      "note": "C",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Flutter",
+    "keyswitch": {
+      "note": "C#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Long Harmonics",
+    "keyswitch": {
+      "note": "D",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Multi Tongued",
+    "keyswitch": {
+      "note": "D#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Marcato",
+    "keyswitch": {
+      "note": "E",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Tenuto",
+    "keyswitch": {
+      "note": "F",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Staccato",
+    "keyswitch": {
+      "note": "F#",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Minor 2nd)",
+    "keyswitch": {
+      "note": "G",
+      "octave": -2
+    }
+  },
+  {
+    "name": "Trill (Major 2nd)",
+    "keyswitch": {
+      "note": "G#",
+      "octave": -2
+    }
+  }
+]
