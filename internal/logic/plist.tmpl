@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Articulations</key>
+	<array>
+		{{- range .Articulations}}
+		<dict>
+			<key>ArticulationID</key>
+			<integer>{{.ArticulationID}}</integer>
+			<key>ID</key>
+			<integer>{{.ID}}</integer>
+			<key>Name</key>
+			<string>{{.Name}}</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>{{.Note}}</integer>
+					<key>Status</key>
+					<string>Note On</string>
+				</dict>
+			</array>
+		</dict>
+		{{- end}}
+	</array>
+	<key>MultipleOutputsActive</key>
+	<false/>
+	<key>Name</key>
+	<string>{{.Filename}}</string>
+	<key>Switches</key>
+	<array/>
+</dict>
+</plist>
