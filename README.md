@@ -27,7 +27,7 @@ A patch contains an array of articulation mapping objects, where `name` is the n
 > [!IMPORTANT]
 > Switchboard defines middle C as C3, meaning the first and lowest possible note is C-2.
 
-To generate articulation sets for all patches in the catalog, execute:
+To generate articulation sets for patches in the catalog, including your own patches, you must have a version of the Go compiler installed. See the [Download and install](https://go.dev/doc/install) guide for detailed instructions. From there, execute:
 
 ```
 go run main.go
