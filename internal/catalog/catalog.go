@@ -1,4 +1,4 @@
-package library
+package catalog
 
 import (
 	"encoding/json"
@@ -22,11 +22,12 @@ type Patch struct {
 	// Example: "Spitfire Audio/BBC Symphony Orchestra/Brass/"
 	DirectoryPath string
 
-	// The patch's available articulations.
-	Articulations []Articulation
+	// The patch's keyswitch mappings.
+	Mappings []Mapping
 }
 
-type Articulation struct {
+// Maps a named articulation to a keyswitch.
+type Mapping struct {
 	// The articulation name.
 	Name string `json:"name"`
 
@@ -45,10 +46,10 @@ type Keyswitch struct {
 }
 
 // LoadPatches searches the provided filesystem for patch files and loads any
-// contained articulations.
+// contained articulation mappings.
 func LoadPatches(filesystem fs.FS) ([]Patch, error) {
 	var patches []Patch
-	var articulationCount = 0
+	var mappingsCount = 0
 
 	fn := func(path string, entry fs.DirEntry, err error) error {
 		if err != nil {
@@ -68,16 +69,16 @@ func LoadPatches(filesystem fs.FS) ([]Patch, error) {
 			return err
 		}
 
-		var articulations []Articulation
-		if err := json.NewDecoder(file).Decode(&articulations); err != nil {
+		var mappings []Mapping
+		if err := json.NewDecoder(file).Decode(&mappings); err != nil {
 			return err
 		}
-		articulationCount += len(articulations)
+		mappingsCount += len(mappings)
 
 		patches = append(patches, Patch{
 			Name:          getPatchName(path),
 			DirectoryPath: getDirectoryPath(path),
-			Articulations: articulations,
+			Mappings:      mappings,
 		})
 
 		return nil
@@ -87,8 +88,8 @@ func LoadPatches(filesystem fs.FS) ([]Patch, error) {
 		return []Patch{}, err
 	}
 
-	fmt.Printf("switchboard: loaded %d patches containing %d articulations\n",
-		len(patches), articulationCount)
+	fmt.Printf("switchboard: loaded %d patches containing %d mappings\n",
+		len(patches), mappingsCount)
 
 	return patches, nil
 }

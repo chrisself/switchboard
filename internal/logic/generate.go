@@ -8,7 +8,7 @@ import (
 
 	_ "embed"
 
-	"github.com/chrisself/switchboard/internal/library"
+	"github.com/chrisself/switchboard/internal/catalog"
 	"github.com/chrisself/switchboard/internal/midi"
 )
 
@@ -57,7 +57,7 @@ type articulation struct {
 	Note int
 }
 
-func Generate(patches []library.Patch, buildDir string) error {
+func Generate(patches []catalog.Patch, buildDir string) error {
 	tmpl, err := template.New("plist.tmpl").Parse(templateContent)
 	if err != nil {
 		return fmt.Errorf("failed to parse template: %v", err)
@@ -74,7 +74,7 @@ func Generate(patches []library.Patch, buildDir string) error {
 
 		articulationSet := articulationSet{
 			Filename:      filename,
-			Articulations: mapArticulations(patch.Articulations),
+			Articulations: convertMappings(patch.Mappings),
 		}
 
 		file, err := os.Create(filepath.Join(directory, filename))
@@ -91,25 +91,25 @@ func Generate(patches []library.Patch, buildDir string) error {
 	return nil
 }
 
-func mapArticulations(articulations []library.Articulation) []articulation {
-	mapped := make([]articulation, len(articulations))
+func convertMappings(mappings []catalog.Mapping) []articulation {
+	articulations := make([]articulation, len(mappings))
 
 	// For now, assign identifiers to articulations in a given patch using their
 	// ordinal positions. This means articulations cannot be reordered without
 	// changing the articulations existing MIDI note events in a project refer
 	// to. Eventually the patches should be rewritten so that each articulation
-	// has a persistent identifier.
-	for index, art := range articulations {
+	// mapping has a persistent identifier.
+	for index, mapping := range mappings {
 		articulationID := index + 1
 
 		articulation := articulation{
 			ArticulationID: articulationID,
 			ID:             articulationID + 1000,
-			Name:           art.Name,
-			Note:           midi.NoteToNum(art.Keyswitch.Note, art.Keyswitch.Octave),
+			Name:           mapping.Name,
+			Note:           midi.NoteToNum(mapping.Keyswitch.Note, mapping.Keyswitch.Octave),
 		}
-		mapped[index] = articulation
+		articulations[index] = articulation
 	}
 
-	return mapped
+	return articulations
 }
