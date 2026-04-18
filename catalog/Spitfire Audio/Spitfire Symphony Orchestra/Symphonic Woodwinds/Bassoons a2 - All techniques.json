@@ -14,51 +14,44 @@
     }
   },
   {
-    "name": "Long Harmonics",
+    "name": "Multi Tongued",
     "keyswitch": {
       "note": "D",
       "octave": -2
     }
   },
   {
-    "name": "Multi Tongued",
+    "name": "Marcato",
     "keyswitch": {
       "note": "D#",
       "octave": -2
     }
   },
   {
-    "name": "Marcato",
+    "name": "Tenuto",
     "keyswitch": {
       "note": "E",
       "octave": -2
     }
   },
   {
-    "name": "Tenuto",
+    "name": "Staccato",
     "keyswitch": {
       "note": "F",
       "octave": -2
     }
   },
   {
-    "name": "Staccato",
+    "name": "Trill (Minor 2nd)",
     "keyswitch": {
       "note": "F#",
       "octave": -2
     }
   },
   {
-    "name": "Trill (Minor 2nd)",
-    "keyswitch": {
-      "note": "G",
-      "octave": -2
-    }
-  },
-  {
     "name": "Trill (Major 2nd)",
     "keyswitch": {
-      "note": "G#",
+      "note": "G",
       "octave": -2
     }
   }
